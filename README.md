@@ -88,7 +88,7 @@ Welcome to my coding portfolio! This repository contains a collection of project
 
 ## 🚀 Projects Overview
 
-### 1. **Finance App (ECOS)** - Full-Stack Financial Management Platform
+### 1. **Banking App (ECOS)** - Full-Stack Financial Management Platform
 A comprehensive Next.js application for personal finance management with bank integration, transaction tracking, and payment processing.
 
 **Tech Stack:**
