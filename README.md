@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Ashraf Kawooya and I'm a Computer Science Senior, from University of Maryland, Baltimore County.</p>
+<p align="left">My name is Ashraf Kawooya and I'm a Computer Science graduate, from University of Maryland, Baltimore County.</p>
 
 ###
 
